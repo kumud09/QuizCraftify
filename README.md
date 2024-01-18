@@ -1,6 +1,6 @@
-# Quizzo
+# QuizCraftify
 
-Quizzo is a website that allows teachers to do complex operations on quizzes while also allowing students to take quizzes and evaluate their results.
+QuizCraftify is a website that allows teachers to do complex operations on quizzes while also allowing students to take quizzes and evaluate their results.
 
 
 ## Features
