@@ -11,20 +11,6 @@ QuizCraftify is a website that allows teachers to do complex operations on quizz
 - Real-time Results
 - Leaderboard and Competitive Quizzing
 
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/AkshayaPujitha/Quizzo.git
-```
-
-Go to the project directory
-
-```bash
-  cd Quizzo-main
-```
 Create Virtual environment
 
 ```bash
@@ -49,5 +35,4 @@ Start the server
   python manage.py runserver
 ```
 "# QuizCraftify" 
-"# QuizCraftify" 
-"# QuizCraftify" 
+
